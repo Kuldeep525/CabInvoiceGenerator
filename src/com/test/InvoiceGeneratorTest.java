@@ -1,8 +1,12 @@
-package com.brigelab.program;
+package com.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import com.brigelab.program.InvoiceGenerator;
+import com.brigelab.program.InvoiceSummary;
+import com.brigelab.program.Ride;
 
 import junit.framework.Assert;
 
